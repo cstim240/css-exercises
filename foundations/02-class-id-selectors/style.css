@@ -1,0 +1,20 @@
+/* 02-class-id-selectors exercise from TOP!
+Done!*/
+.odd {
+    background-color: #eb969a;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: #210eed;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #88fa84;
+    font-weight: bold;
+}
