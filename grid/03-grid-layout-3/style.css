@@ -20,6 +20,7 @@
 
 .header {
   background-color: #393f4d;
+  grid-column: 0 / 2;
 }
 
 .menu ul,
@@ -29,7 +30,6 @@
 
 .sidebar {
   background-color: #FF7755;
-  grid-column: 0 / 1;
   grid-row: 2 / 3;
 }
 
