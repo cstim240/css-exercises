@@ -29,6 +29,8 @@
 
 .sidebar {
   background-color: #FF7755;
+  grid-column: 0 / 1;
+  grid-row: 2 / 3;
 }
 
 .sidebar .photo {
