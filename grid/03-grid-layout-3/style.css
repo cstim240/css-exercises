@@ -24,14 +24,17 @@
   grid-row: 1 / 1;
 
   display: grid;
-  grid-template-columns: 1fr 4fr;
+  grid-template-columns: 1fr 2fr;
 }
 
+.menu ul {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
 .menu ul,
 .menu li {
   font-size: 16px;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  list-style-type: none;
 }
 
 .sidebar {
